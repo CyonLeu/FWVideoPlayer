@@ -1,0 +1,16 @@
+PODS:
+  - FWVideoPlayer (0.1.0)
+
+DEPENDENCIES:
+  - FWVideoPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  FWVideoPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FWVideoPlayer: 7c16980b7f4274b2861b4947898229d6f9415bfa
+
+PODFILE CHECKSUM: 5dc9476a1557a7a6c41a9d88485cf58145b9cf83
+
+COCOAPODS: 1.10.1

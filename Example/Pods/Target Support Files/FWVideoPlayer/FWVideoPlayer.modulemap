@@ -1,0 +1,6 @@
+framework module FWVideoPlayer {
+  umbrella header "FWVideoPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

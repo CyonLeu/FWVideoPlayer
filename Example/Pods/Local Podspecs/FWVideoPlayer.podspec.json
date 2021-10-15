@@ -1,0 +1,22 @@
+{
+  "name": "FWVideoPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of FWVideoPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CyonLeu/FWVideoPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CyonLeu": "cyonleu@126.com"
+  },
+  "source": {
+    "git": "https://github.com/CyonLeu/FWVideoPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FWVideoPlayer/Classes/**/*"
+}

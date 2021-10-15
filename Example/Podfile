@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FWVideoPlayer_Example' do
+  pod 'FWVideoPlayer', :path => '../'
+
+  target 'FWVideoPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
